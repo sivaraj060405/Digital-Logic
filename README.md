@@ -1,1 +1,3 @@
-# Digital-Logic
+# Reflection
+
+The course on Digital Logic provided great practical exposure through a series of labs and an overall final project. In Lab 1, I worked on basic gate circuit simulations using DEEDS and strengthened the very important logic gate concepts. Lab 2 was assigned to design and simulate different combinational circuits like multiplexers and decoders, thus refining my skills in circuit design and debugging. Lab 3 was on sequential circuits, which designed a bi-directional counter. This gave insight into the application of flip-flops and timing mechanisms. A final project, based on data transmission, brought all these principles together into one system and furthered my practical knowledge and application of digital logic design.
